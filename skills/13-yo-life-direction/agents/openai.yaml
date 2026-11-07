@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figure Out Your Next Step"
+  short_description: "Explore life directions without deciding everything"
+  default_prompt: "Use $13-yo-life-direction to help me work out what matters and choose a manageable next step."

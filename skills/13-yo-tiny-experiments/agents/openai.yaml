@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run a Tiny Experiment"
+  short_description: "Turn an uncertain idea into a small, useful experiment"
+  default_prompt: "Use $13-yo-tiny-experiments to turn this idea into a low-cost test with a clear review point."

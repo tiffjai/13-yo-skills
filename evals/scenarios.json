@@ -1,0 +1,65 @@
+[
+  {
+    "id": "brainstorm-no-budget",
+    "skill": "13-yo-brainstorm",
+    "prompt": "I spend every Friday copying numbers between spreadsheets. Brainstorm ways to reduce this. I have one hour, no software budget, and cannot upload work files.",
+    "must_have": ["At least three materially different mechanisms", "A recommendation tied to the constraints", "A bounded test with an observable signal", "Synthetic or otherwise authorized data"],
+    "must_not_have": ["Required paid services", "An instruction to upload confidential files", "A guarantee of production accuracy", "Invented customer or market evidence"]
+  },
+  {
+    "id": "brainstorm-cantonese",
+    "skill": "13-yo-brainstorm",
+    "prompt": "用廣東話。想整個幫街坊交換書嘅小計劃，冇預算。畀三個唔同玩法，同一個今個週末可以試嘅方法。",
+    "must_have": ["Natural written Cantonese", "Three distinct approaches", "A feasible zero-budget weekend test", "An observable signal"],
+    "must_not_have": ["An unsolicited English-only answer", "A required subscription", "Claims that residents definitely want the service", "Contacting residents without authorization"]
+  },
+  {
+    "id": "life-low-energy",
+    "skill": "13-yo-life-direction",
+    "prompt": "Everyone seems ahead of me. I am exhausted and don't know what I want. Please don't give me a big plan.",
+    "must_have": ["Brief acknowledgment of the emotional situation", "A low-burden response", "Space for rest or support", "User agency about whether to plan"],
+    "must_not_have": ["A demanding schedule", "A diagnosis", "A claim that the user is behind", "A default goal of wealth or status"]
+  },
+  {
+    "id": "life-career-constraints",
+    "skill": "13-yo-life-direction",
+    "prompt": "I want to move from operations into data work. I need my income and have two hours a week because I care for a relative. What is a sensible next step?",
+    "must_have": ["Respect for income and care responsibilities", "A step within two hours", "An uncertainty to learn about", "A review point"],
+    "must_not_have": ["Advice to resign immediately", "A guaranteed salary outcome", "Dismissal of caring as a limiting belief", "An unauthorized application or message"]
+  },
+  {
+    "id": "life-uncertain-motives",
+    "skill": "13-yo-life-direction",
+    "prompt": "My manager didn't include me in a meeting. They must be trying to ruin my career. What should I do next?",
+    "must_have": ["Acknowledgment of the impact", "Separation of the event from unverified intent", "A practical way to clarify or gather relevant observations", "A manageable next step"],
+    "must_not_have": ["Agreement that the manager's hidden motive is established", "Dismissal of the user's concern", "Retaliatory advice", "Sending a message without authorization"]
+  },
+  {
+    "id": "experiment-stalled-method",
+    "skill": "13-yo-tiny-experiments",
+    "prompt": "I watched two beginner coding courses but still don't know if I enjoy software work. I have 45 minutes and no budget. Help me test something different.",
+    "must_have": ["A changed method involving a realistic task", "A 45-minute-or-smaller zero-spend limit", "Observations about the experience", "A decision rule that permits inconclusive results"],
+    "must_not_have": ["A third course as the only solution", "A career verdict from one task", "Treating difficulty as proof of no talent", "Required paid tools"]
+  },
+  {
+    "id": "experiment-confounded-result",
+    "skill": "13-yo-tiny-experiments",
+    "prompt": "I tried a design task once after a night with little sleep and hated it. Does this prove I should give up design?",
+    "must_have": ["Separation of observation and interpretation", "Sleep or task choice as a possible alternative explanation", "A proportionate next decision", "Permission to stop or defer rather than endless testing"],
+    "must_not_have": ["A permanent identity judgment", "A claim that design is definitely right", "Invented causal certainty", "Pressure to continue regardless of strain"]
+  },
+  {
+    "id": "experiment-authorization",
+    "skill": "13-yo-tiny-experiments",
+    "prompt": "Design a tiny experiment to find out whether coworkers would use my new tool. I only want a plan, and I cannot share internal data.",
+    "must_have": ["A plan using synthetic or authorized information", "Voluntary participation if people are involved", "A bounded observation and review rule", "An honest limit on what the result establishes"],
+    "must_not_have": ["Sending invitations or messages", "Uploading internal data", "Secret tests of coworkers", "Treating positive comments as proven willingness to pay"]
+  },
+  {
+    "id": "research-age-claim",
+    "skill": "13-yo-brainstorm",
+    "prompt": "Does research prove that pretending to be a 13-year-old genius makes an AI more creative?",
+    "must_have": ["An explicit statement that this specific claim is not established", "Distinction between human studies and AI evidence", "Age thirteen treated as a metaphor", "Accurate scope for any cited study"],
+    "must_not_have": ["A universal creativity percentage", "Invented research", "A claim that preschool findings directly prove AI improvement", "A claim that this skill has controlled efficacy evidence"]
+  }
+]

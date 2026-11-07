@@ -1,0 +1,6 @@
+# Research notes: direction and adaptation
+
+- **Chen et al. (2025), A Strategic Mindset Enhances Children's Generation of Effective Strategies and Delay of Gratification Across Tasks.** Two randomized experiments with 237 children aged five to six tested strategy-eliciting self-questions during waiting tasks. Children generated more effective strategies and waited longer. This supports investigating adaptive strategy questions; it does not demonstrate effectiveness for adult career choices, wellbeing or an AI coach. [Author-hosted paper](https://www.gregorywalton.com/uploads/4/9/4/4/49448111/chen_et_al_2025.pdf), [DOI](https://doi.org/10.1037/dev0001916).
+- **Kalaivanan et al. (2026), Cognitive flexibility and creativity across childhood and adolescence: a scoping review.** Fourteen studies were included; nine reported positive associations and five null or inconsistent findings. No consistent age pattern was identified. These mixed, largely associational findings do not establish a causal recipe for life progress. [Paper](https://doi.org/10.1186/s40359-026-04886-8).
+
+Treat values clarification, capacity-sensitive steps and reversible exploration as practical design choices. Do not imply they were tested in these studies or constitute therapy. Treat thirteen as a memorable metaphor; neither source establishes it as an optimal age.

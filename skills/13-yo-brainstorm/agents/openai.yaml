@@ -1,0 +1,4 @@
+interface:
+  display_name: "What Would a 13-Year-Old Genius Do?"
+  short_description: "Fresh ideas, clear assumptions, tiny real-world tests"
+  default_prompt: "Use $13-yo-brainstorm to explore this problem and find one promising idea I can test."
